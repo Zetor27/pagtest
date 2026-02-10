@@ -1,0 +1,158 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100%;
+  width: 100%;
+}
+
+.encabezado{
+  margin: 15px 0px 15px 150px;
+  background-color: yellow;
+}
+
+ul{
+  list-style-type: none;
+  margin: 15px 100px 15px 0px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+li{
+  
+  padding: 5px 15px 5px 15px;
+}
+a{
+  color: gray;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.fondo{
+  background-image: url(https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg); 
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: flex;
+  justify-content: flex-start;
+  height: 400px;
+}
+
+.flecha{
+  color: white;
+  display: flex;
+  flex-direction: column;
+  width: 10%;
+  background-color: tomato;
+}
+
+.flechaV1{
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 40%;
+  background-color: blue;
+}
+
+.flechaV2{
+  color: white;
+  display: flex;
+  height: 60%;
+
+}
+
+.portada{
+  color: white;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+/*
+.t1{
+  color: white;
+  display: flex;
+  align-items: flex-end;
+  height: 25%;
+  background-color: wheat;
+}
+
+.t2{
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+  height: 75%;
+  background-color: purple;
+}
+
+.sbt1{
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  width: 20%;
+  background-color: pink;
+}
+
+.sbt2{
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 80%;
+  background-color: brown;
+}
+
+.ss1{
+  color: white;
+  flex-direction: column;
+  justify-content: space-around;
+  display: flex;
+  height: 60%;
+  background-color: orange;
+}
+
+.ss2{
+  color: white;
+  display: flex;
+  height: 40%;
+  background-color: darkmagenta;
+}
+
+h2{
+  font-size: 40px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.h11{
+  font-size: 85px;
+  font-weight: bold;
+  margin: -10px 5px -10px 0px;
+  display: flex;
+}
+
+h3{
+  font-weight: normal;
+  font-size: 35px;
+  margin: 5px;
+  color: white;
+}
+
+.p1{
+  font-weight: bold;
+  margin: 25px 5px 5px 5px;
+  color: #c0a656;
+  font-size: 25px;
+}
+
+.p2{
+  font-weight: bold;
+  margin: 0%;
+  color: gray;
+  font-size: 20px;
+}
+
+.p3{
+  font-weight: bold;
+  margin: 0%;
+  color: darkgray;
+  font-size: 20px;
+}  */
